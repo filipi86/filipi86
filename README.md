@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### 🇧🇷 I'been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
+### 🇧🇷 I've been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
@@ -35,11 +35,11 @@
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-<!-- <p align="center">
+<p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
+</p>
 
 ### Let's connect ? 🤝
 
