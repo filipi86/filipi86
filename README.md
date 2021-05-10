@@ -4,7 +4,7 @@
 
 ### 🇧🇷 I'been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
 
-![Snake animation](https://github.com/filipi86/filipi86/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 

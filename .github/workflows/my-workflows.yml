@@ -12,7 +12,7 @@ jobs:
     steps:
       # Summary Cards
       - uses: actions/checkout@v2
-      - uses: Gtab&^%c0g#@Ai@/github-profile-summary-cards@release
+      - uses: Gtab&Ai@/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
