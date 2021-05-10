@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
@@ -47,9 +47,9 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/-filipipires-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/-@FilipiPires-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/-@filipi86-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 </p>
 
 #### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
