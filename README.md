@@ -12,9 +12,9 @@
 ### Skill & Languages & Tools 🛠  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&logo=kali-linux&color=black)&nbsp;
-![RedTeam](https://img.shields.io/badge/-RedTeam-05122A?style=flat&logo=hackaday&color=red)&nbsp;
-![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp
+![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+![RedTeam](https://img.shields.io/badge/-RedTeam-FF0000?style=flat&logo=hackaday&color=white)&nbsp;
+![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
 ![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&logo=hackaday=color=blue)&nbsp;
 ![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&logo=hackadaycolor=yellow)&nbsp;
 ![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=white)&nbsp; 
