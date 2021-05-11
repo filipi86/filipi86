@@ -1,17 +1,32 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
 
+### 🇧🇷 I've been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
 
-My name is Filipi Pires. I work as a Security Researcher and Security Advocate at Zup Innovation.
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠  
-![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=green)&nbsp;![Security](https://img.shields.io/badge/-Security-05122A?style=flat&color=green)&nbsp;![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&color=green)&nbsp;![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&color=green)&nbsp;![RedTeam](https://img.shields.io/badge/-RedTeam-05122A?style=flat&color=green)&nbsp;![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=green)&nbsp;![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&color=green)&nbsp;![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=green)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=orange)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=gray)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=blue)&nbsp;  
+![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=hacking)&nbsp;
+![Security](https://img.shields.io/badge/-Security-05122A?style=flat&color=security)&nbsp;
+![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&color=malware)&nbsp;
+![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&color=hunting)&nbsp;
+![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=blue)&nbsp;
+![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&color=yellow)&nbsp;
+![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=security)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 
 ### Analytics ⚙️
@@ -25,15 +40,8 @@ My name is Filipi Pires. I work as a Security Researcher and Security Advocate a
 ### Let's connect? 🤝
 
 <p align="left">
-
-<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/-filipipires-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/-@FilipiPires-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/-@filipi86-%2312100E?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
