@@ -7,13 +7,14 @@
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠  
-![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=hacking)&nbsp;
-![Security](https://img.shields.io/badge/-Security-05122A?style=flat&color=security)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&color=malware)&nbsp;
-![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&color=hunting)&nbsp;
+![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=white)&nbsp;
+![Security](https://img.shields.io/badge/-Security-05122A?style=flat&color=white)&nbsp;
+![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&color=black)&nbsp;
+![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&color=purple)&nbsp;
+![RedTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=red)&nbsp;
 ![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=blue)&nbsp;
 ![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&color=yellow)&nbsp;
-![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=security)&nbsp;  
+![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=white)&nbsp;  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -23,7 +24,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
 ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
@@ -40,8 +40,10 @@
 ### Let's connect? 🤝
 
 <p align="left">
+<a href="https://bit.ly/FilipiGitHub"><img src="https://img.shields.io/badge/filipi86-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/-filipipires-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/-@FilipiPires-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/-@filipi86-%2312100E?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/@filipi86-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 </p>
