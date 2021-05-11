@@ -12,15 +12,15 @@
 ### Skill & Languages & Tools 🛠  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![RedTeam](https://img.shields.io/badge/-RedTeam-FF0000?style=flat&logo=hackaday&color=red)&nbsp;
-![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
-![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
-![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&logo=hackaday&color=yeallow)&nbsp;
-![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=white)&nbsp; 
+![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
+![ThreatHunting](https://img.shields.io/badge/ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
+![BlueTeam](https://img.shields.io/badge/BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
+![AppSec](https://img.shields.io/badge/AppSec-05122A?style=flat&logo=githubactions&color=yellow)&nbsp;
+![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=black)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -30,6 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 
 ### Analytics ⚙️
