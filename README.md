@@ -52,3 +52,7 @@
 <a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat&logo=Medium&logoColor=white"/></a>
 
 </p>
+
+### Projects ⚙️
+
+[<img src="sample/HINAC.png" height="90">](https://www.hackingisnotacrime.org/)  [<img src="sample/RTV.png" height="90">](https://redteamvillage.io)  [<img src="sample/DCG5511.jpg" height="100">](https://linktr.ee/dcg5511)  [<img src="sample/horusec_logo.png" height="90">](https://horusec.io/site/)
