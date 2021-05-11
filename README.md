@@ -2,13 +2,15 @@
 
 
 <p align="le">
-  <img height="300" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_800_800/0/1589792434245?e=1626307200&v=beta&t=FNqJ7wJYBEauOLNdUI8cgOoZxk8Op74GRDR-sderd_g">
+  <img height="500" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_800_800/0/1589792434245?e=1626307200&v=beta&t=FNqJ7wJYBEauOLNdUI8cgOoZxk8Op74GRDR-sderd_g">
 </p>
 
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
 
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="left">
   <img height="500" src="/assets/img/sample/avatar.jpg">
