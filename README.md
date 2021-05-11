@@ -11,13 +11,13 @@
 
 ### Skill & Languages & Tools 🛠  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
+![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![ThreatHunting](https://img.shields.io/badge/ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
+![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![BlueTeam](https://img.shields.io/badge/BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
-![AppSec](https://img.shields.io/badge/AppSec-05122A?style=flat&logo=githubactions&color=yellow)&nbsp;
 ![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=black)&nbsp; 
+![AppSec](https://img.shields.io/badge/AppSec-F6C915?style=flat&logo=github-actions&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=white)&nbsp;
