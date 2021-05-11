@@ -1,20 +1,28 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+
+<p align="le">
+  <img height="300" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_800_800/0/1589792434245?e=1626307200&v=beta&t=FNqJ7wJYBEauOLNdUI8cgOoZxk8Op74GRDR-sderd_g">
+</p>
+
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate at [Zup Innovation](https://www.zup.com.br/). 🇧🇷
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Languages & Tools 🛠  
-![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=white)&nbsp;
+<p align="left">
+  <img height="500" src="/assets/img/sample/avatar.jpg">
+</p>
+
+### Skill & Languages & Tools 🛠  
+![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&color=black)&nbsp;
 ![Security](https://img.shields.io/badge/-Security-05122A?style=flat&color=white)&nbsp;
 ![MalwareAnalysis](https://img.shields.io/badge/-MalwareAnalysis-05122A?style=flat&color=black)&nbsp;
 ![ThreatHunting](https://img.shields.io/badge/-ThreatHunting-05122A?style=flat&color=purple)&nbsp;
 ![RedTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=red)&nbsp;
 ![BlueTeam](https://img.shields.io/badge/-BlueTeam-05122A?style=flat&color=blue)&nbsp;
 ![AppSec](https://img.shields.io/badge/-AppSec-05122A?style=flat&color=yellow)&nbsp;
-![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=white)&nbsp;  
+![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&color=white)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -40,10 +48,11 @@
 ### Let's connect? 🤝
 
 <p align="left">
-<a href="https://bit.ly/FilipiGitHub"><img src="https://img.shields.io/badge/filipi86-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/-filipipires-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/-@FilipiPires-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/-@filipi86-%2312100E?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/@filipi86-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://bit.ly/FilipiGitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiWebSite"><img src="https://img.shields.io/badge/WebPage-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/></a>
+<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 </p>
