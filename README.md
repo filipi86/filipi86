@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img height="500" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_800_800/0/1589792434245?e=1626307200&v=beta&t=FNqJ7wJYBEauOLNdUI8cgOoZxk8Op74GRDR-sderd_g">
+  <img height="500" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_400_400/0/1589792434245?e=1632355200&v=beta&t=zAtDaGgXx8EOS55GlNhEXhsvfog4b4fQVuH69BnejwA">
 </p>
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
