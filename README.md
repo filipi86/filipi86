@@ -55,4 +55,4 @@
 
 ### Projects ⚙️
 
-[<img src="sample/HINAC.png" height="70">](https://www.hackingisnotacrime.org/)  [<img src="sample/RTV.png" height="70">](https://redteamvillage.io)  [<img src="sample/DCG5511.jpg" height="80">](https://linktr.ee/dcg5511)  [<img src="sample/horus-principal.png" height="70">](https://horusec.io/site/) 
+[<img src="sample/HINAC.png" height="70">](https://www.hackingisnotacrime.org/)  [<img src="sample/RTV.png" height="70">](https://redteamvillage.io)  [<img src="sample/DCG5511.jpg" height="80">](https://linktr.ee/dcg5511) 
