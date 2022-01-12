@@ -2,7 +2,11 @@
 
 
 <p align="center">
+<<<<<<< HEAD
   <img height="500" src="sample/Filipi.png">]
+=======
+  <img height="500" src="https://media-exp1.licdn.com/dms/image/C5603AQED-OnPPDOq9w/profile-displayphoto-shrink_400_400/0/1589792434245?e=1640822400&v=beta&t=bmdG-TxQYTL-RLcmTDYAlw7lvTlEGvdfwfHwj3244W0">
+>>>>>>> 204607ec19bbeb007dbcfd41fa01214355fb6036
 </p>
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
@@ -55,4 +59,4 @@
 
 ### Projects ⚙️
 
-[<img src="sample/HINAC.png" height="70">](https://www.hackingisnotacrime.org/)  [<img src="sample/RTV.png" height="70">](https://redteamvillage.io)  [<img src="sample/DCG5511.jpg" height="80">](https://linktr.ee/dcg5511)  [<img src="sample/horus-principal.png" height="70">](https://horusec.io/site/) 
+[<img src="sample/HINAC.png" height="110">](https://www.hackingisnotacrime.org/)  [<img src="sample/RTV.png" height="110">](https://redteamvillage.io)  [<img src="sample/DCG5511.jpg" height="120">](https://linktr.ee/dcg5511) 
