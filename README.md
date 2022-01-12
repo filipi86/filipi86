@@ -1,6 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
 
-<img src="sample/Filipi.png" height="500">
+
+<p align="center">
+  <img src="sample/Filipi.jpg" height="500">
+</p>
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
 
