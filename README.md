@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img height="500" src="sample/Filipi.png">]
+  <img height="500" src="sample/Filipi.png">
 </p>
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
