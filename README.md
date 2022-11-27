@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="sample/Filipi.jpg" height="500">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEd4tW6146_Ww/profile-displayphoto-shrink_400_400/0/1653588320459?e=1675296000&v=beta&t=lUMWBAz6LOmZyr-1zrtHR9WelGaqncnlDORjxvzyYAY" height="500">
 </p>
 
 ### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
