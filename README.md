@@ -48,7 +48,7 @@
 <a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiWebSite"><img src="https://img.shields.io/badge/WebPage-100000?style=flag&logo=blogger&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiInstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://bit.ly/FilipiPiresInstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat&logo=Medium&logoColor=white"/></a>
 
 </p>
