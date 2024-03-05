@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEd4tW6146_Ww/profile-displayphoto-shrink_400_400/0/1653588320459?e=1675296000&v=beta&t=lUMWBAz6LOmZyr-1zrtHR9WelGaqncnlDORjxvzyYAY" height="500">
+  <img src="https://media.licdn.com/dms/image/C4E03AQEd4tW6146_Ww/profile-displayphoto-shrink_400_400/0/1653588321573?e=1715212800&v=beta&t=4KpeKsRTgOXsaHkJfa_c0pHz0WZ_Ug9TS3xU3RKqHqA" height="500">
 </p>
 
-### 🇧🇷 I've been Working at Security Researcher and Security Advocate. 🇧🇷
+### 🇧🇷 I've been working as a Threat and Security Researcher and CyberSecurity Advocate. 🇧🇷
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
