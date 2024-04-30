@@ -1,8 +1,8 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
 
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E03AQEd4tW6146_Ww/profile-displayphoto-shrink_400_400/0/1653588321573?e=1715212800&v=beta&t=4KpeKsRTgOXsaHkJfa_c0pHz0WZ_Ug9TS3xU3RKqHqA" height="500">
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/D5616AQFY1Hf3f6Ucbw/profile-displaybackgroundimage-shrink_350_1400/0/1707905238803?e=1720051200&v=beta&t=gDn5Qejf4ZWq3-h_zFra7l6gtKVGOhkeYiI9mpLWNqM" height="230">
 </p>
 
 ### 🇧🇷 I've been working as a Threat and Security Researcher and CyberSecurity Advocate. 🇧🇷
