@@ -1,9 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipi86&repo=filipi86&countColorcountColor)
+![Profile Views](https://komarev.com/ghpvc/?username=filipi86&abbreviated=true)
 
-
-<p align="left">
-  <img src="https://media.licdn.com/dms/image/D5616AQFY1Hf3f6Ucbw/profile-displaybackgroundimage-shrink_350_1400/0/1707905238803?e=1720051200&v=beta&t=gDn5Qejf4ZWq3-h_zFra7l6gtKVGOhkeYiI9mpLWNqM" height="230">
-</p>
+![image](https://github.com/user-attachments/assets/f7b8ddac-fa55-4b8c-9869-54b183ae6679)
 
 ### 🇧🇷 I've been working as a Threat and Security Researcher and CyberSecurity Advocate. 🇧🇷
 
