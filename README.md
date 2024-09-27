@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/f7b8ddac-fa55-4b8c-9869-54b183ae6679)
 
-### 🇧🇷 I've been working as a Threat and Security Researcher and CyberSecurity Advocate. 🇧🇷
+### 🇧🇷 I've been working as a Senior Threat and Security Researcher and CyberSecurity Advocate. 🇧🇷
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
