@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=filipi86&abbreviated=true)
 
-![image](https://github.com/user-attachments/assets/f7b8ddac-fa55-4b8c-9869-54b183ae6679)
+![Filipi Pires - 2025](https://github.com/user-attachments/assets/6b4355a3-311b-4ca7-87a0-81a083f5eda1)
 
 ### I've been working as a Senior Threat and Security Researcher and CyberSecurity Advocate. 
 
