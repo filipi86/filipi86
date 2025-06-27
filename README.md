@@ -52,4 +52,4 @@
 
 ### Projects ⚙️
 
-[<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="110">](https://redteamcommunity.org/) [<img src="https://github.com/user-attachments/assets/22595f36-6371-491b-8873-8b99e8ce6f83" height="110">](https://redteamvillage.io)  <img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="120"> [<img width="150" alt="image" src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b">](https://www.raicescyber.org/)
+[<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="180">](https://redteamcommunity.org/) [<img src="https://github.com/user-attachments/assets/22595f36-6371-491b-8873-8b99e8ce6f83" height="190">](https://redteamvillage.io) [<img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="190">](https://aws.amazon.com/pt/developer/community/community-builders/) [<img width="240" alt="image" src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b">](https://www.raicescyber.org/)
