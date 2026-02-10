@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=filipi86&abbreviated=true)
 
-![Filipi Pires - 2025](https://github.com/user-attachments/assets/0c388136-e3de-4cf5-83b1-a918e1793d81)
+![Filipi Pires-2026-v1](https://github.com/user-attachments/assets/d019f1c2-ba3c-4bf5-9181-5ff7cfd19350)
 
 ### I've been working as a Senior Threat and Security Researcher and CyberSecurity Advocate. 
 
@@ -52,4 +52,4 @@
 
 ### Projects ⚙️
 
-[<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="180">](https://redteamcommunity.org/) [<img src="https://github.com/user-attachments/assets/22595f36-6371-491b-8873-8b99e8ce6f83" height="220">](https://redteamvillage.io) [<img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="190">](https://aws.amazon.com/pt/developer/community/community-builders/) [<img width="240" alt="image" src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b">](https://www.raicescyber.org/)
+[<img src="https://github.com/user-attachments/assets/22595f36-6371-491b-8873-8b99e8ce6f83" height="220">](https://redteamvillage.io) [<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="180">](https://redteamcommunity.org/)[<img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="190">](https://aws.amazon.com/pt/developer/community/community-builders/) [<img width="240" alt="image" src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b">](https://www.raicescyber.org/)
