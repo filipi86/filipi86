@@ -1,55 +1,122 @@
-![Profile Views](https://komarev.com/ghpvc/?username=filipi86&abbreviated=true)
+<div align="center">
 
-![Filipi Pires-2026-v1](https://github.com/user-attachments/assets/d019f1c2-ba3c-4bf5-9181-5ff7cfd19350)
+![Filipi Pires Banner](https://github.com/user-attachments/assets/d019f1c2-ba3c-4bf5-9181-5ff7cfd19350)
 
-### I've been working as a Senior Threat and Security Researcher and CyberSecurity Advocate. 
+# Filipi Pires
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+**Senior Threat & Security Researcher · CyberSecurity Advocate**
 
-### Skill & Languages & Tools 🛠  
-![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
-![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![ThreatHunting](https://img.shields.io/badge/ThreatHunting-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![BlueTeam](https://img.shields.io/badge/BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
-![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=black)&nbsp; 
-![AppSec](https://img.shields.io/badge/AppSec-F6C915?style=flat&logo=github-actions&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
-![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipipires/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FilipiPires)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipipires.sec)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://filipipires.com)
+[![CROSS-INTEL](https://img.shields.io/badge/CROSS--INTEL-1A1A2E?style=for-the-badge&logo=hackaday&logoColor=white)](https://cross-intel.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipi86)
 
+![Profile Views](https://komarev.com/ghpvc/?username=filipi86&abbreviated=true&style=for-the-badge&color=red)
 
-### Analytics ⚙️
+</div>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipi86&layout=compact&count_private=true)
+---
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=filipi86&count_private=true&show_icons=true)
+## 👾 About Me
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=filipi86&hide_border=true)
+I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** focused on Red Team operations, Adversary Emulation, and Breach & Attack Simulation (BAS).
 
-### Let's connect? 🤝
+- 🔴 **Head of Technical Advocacy @ [SCYTHE](https://scythe.io)** — LATAM & EMEA
+- 🕵️ **Founder & Investor @ [CROSS-INTEL](https://cross-intel.com)** — GTM Company and Managed Adversary Emulation Services
+- 🇵🇹 **BSides Porto Organizer** @ [BSides Porto 🇵🇹](https://bsidesporto.org) - BSides Porto
+- 🏴 **Red Team Village Director @ [DEF CON](https://redteamvillage.io)** - Red Team Village 
+- 🌎 **Founder @ [Red Team Community](https://redteamcommunity.org)** — Brazil & LATAM
+- 🎙️ **International Speaker** — Black Hat USA · DEF CON · Black Hat MEA · BSides
+- 📖 **Published Author** — Packt Publishing
+- ☁️ **AWS Community Builder**
+- 🐍 **Snyk Ambassador**
+- 🎓 **Senior Advisor @ [Raices Cyber Academy](https://www.raicescyber.org)**
 
-<p align="left">
-<a href="https://bit.ly/FilipiGitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiLinkedin"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiTwitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiWebSite"><img src="https://img.shields.io/badge/WebPage-100000?style=flag&logo=blogger&logoColor=white"/></a>
-<a href="https://bit.ly/FilipiPiresInstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="http://bit.ly/FilipiMedium"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat&logo=Medium&logoColor=white"/></a>
+---
 
-</p>
+## 🛠️ Skills & Expertise
 
-### Projects ⚙️
+<div align="center">
 
-[<img src="https://github.com/user-attachments/assets/22595f36-6371-491b-8873-8b99e8ce6f83" height="220">](https://redteamvillage.io) [<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="180">](https://redteamcommunity.org/)[<img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="190">](https://aws.amazon.com/pt/developer/community/community-builders/) [<img width="240" alt="image" src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b">](https://www.raicescyber.org/)
+![Red Team](https://img.shields.io/badge/Red_Team-FF0000?style=flat-square&logo=hackaday&logoColor=white)
+![Adversary Emulation](https://img.shields.io/badge/Adversary_Emulation-CC0000?style=flat-square&logo=hackaday&logoColor=white)
+![BAS](https://img.shields.io/badge/Breach_%26_Attack_Simulation-8B0000?style=flat-square&logo=hackaday&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-6A0DAD?style=flat-square&logo=hackaday&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-1A1A1A?style=flat-square&logo=hackaday&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-2D2D2D?style=flat-square&logo=hackaday&logoColor=white)
+![Purple Team](https://img.shields.io/badge/Purple_Team-7B2FBE?style=flat-square&logo=hackaday&logoColor=white)
+![AppSec](https://img.shields.io/badge/AppSec-F6C915?style=flat-square&logo=github-actions&logoColor=black)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-003087?style=flat-square&logo=hackaday&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue_Team-0050A0?style=flat-square&logo=hackaday&logoColor=white)
+![OT/ICS](https://img.shields.io/badge/OT%2FICS_Security-FF6B35?style=flat-square&logo=hackaday&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipi86&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipi86&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=filipi86&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🚀 Projects & Communities
+
+<div align="center">
+  
+[<img src="https://bsidesporto.org/assets/bsides-porto-logo-new-CfExxyRF.png" height="100">](https://bsidesporto.org)&nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/509689f3-6f08-4d48-8dc7-99b31bc8f58f" height="100">](https://redteamvillage.io)&nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/a941dd8b-d23e-4655-8564-611624bcb1c8" height="100">](https://redteamcommunity.org/)&nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/15214976-afc0-4b91-a6fb-102ddb7a3fa6" height="100">](https://aws.amazon.com/pt/developer/community/community-builders/)&nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/5bab2437-db00-4d00-adf7-376ffb42108b" height="100">](https://www.raicescyber.org/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best offense is understanding the defense — and the best defense is thinking like the attacker."*
+
+**[filipipires.com](https://filipipires.com) · [cross-intel.com](https://cross-intel.com)**
+
+</div>
