@@ -21,7 +21,7 @@
 
 ## 👾 About Me
 
-I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** focused on Red Team operations, Adversary Emulation, and Breach & Attack Simulation (BAS).
+I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** focused on Red Team operations, Adversary Emulation, and Breach & Attack Simulation.
 
 - 🔴 **Head of Technical Advocacy @ [SCYTHE](https://scythe.io)** — LATAM & EMEA
 - 🕵️ **Founder & Investor @ [CROSS-INTEL](https://cross-intel.com)** — GTM Company and Managed Adversary Emulation Services
@@ -115,7 +115,7 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 <div align="center">
 
-*"The best offense is understanding the defense — and the best defense is thinking like the attacker."*
+*"The best offense is understanding the defense and the best defense is thinking like the attacker."*
 
 **[filipipires.com](https://filipipires.com) · [cross-intel.com](https://cross-intel.com)**
 
