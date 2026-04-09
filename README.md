@@ -73,11 +73,6 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipi86&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipi86&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9"/>
-
 </div>
 
 <div align="center">
