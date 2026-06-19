@@ -1,7 +1,5 @@
 <div align="center">
 
-![Filipi Pires Banner](https://github.com/user-attachments/assets/d019f1c2-ba3c-4bf5-9181-5ff7cfd19350)
-
 # Filipi Pires
 
 **Senior Threat & Security Researcher · CyberSecurity Advocate**
