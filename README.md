@@ -75,6 +75,8 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 ### TPRM-Driven Supply Chain Cybersecurity
 
+[<img src="https://content.packt.com/_/image/original/B36750/cover_image.jpg?version=1782978384" height="240" alt="TPRM-Driven Supply Chain Cybersecurity">](https://www.packtpub.com/en-us/product/tprm-driven-supply-chain-cybersecurity-9781806708109)
+
 [![Get the Book on Packt](https://img.shields.io/badge/Packt-Get_the_Book-F6C915?style=for-the-badge&logo=packt&logoColor=black)](https://www.packtpub.com/en-us/product/tprm-driven-supply-chain-cybersecurity-9781806708109)
 
 **🎟️ Reader Discounts**
@@ -94,7 +96,13 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=filipi86&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
+![Profile Details](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![Stats](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+
+![Repos per Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 </div>
 
