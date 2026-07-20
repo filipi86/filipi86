@@ -71,8 +71,6 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 ## 📊 GitHub Stats
 
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=filipi86&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
