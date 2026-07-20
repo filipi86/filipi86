@@ -27,7 +27,7 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 - 🏴 **Red Team Village Director @ [DEF CON](https://redteamvillage.io)** - Red Team Village 
 - 🌎 **Founder @ [Red Team Community](https://redteamcommunity.org)** — Brazil & LATAM
 - 🎙️ **International Speaker** — Black Hat USA · DEF CON · Black Hat MEA · BSides
-- 📖 **Published Author** — Packt Publishing
+- 📖 **Published Author** — [Packt Publishing](https://www.packtpub.com/en-us/product/tprm-driven-supply-chain-cybersecurity-9781806708109)
 - ☁️ **AWS Community Builder**
 - 🐍 **Snyk Ambassador**
 - 🎓 **Senior Advisor @ [Raices Cyber Academy](https://www.raicescyber.org)**
@@ -64,6 +64,27 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📖 My Book
+
+<div align="center">
+
+### TPRM-Driven Supply Chain Cybersecurity
+
+[![Get the Book on Packt](https://img.shields.io/badge/Packt-Get_the_Book-F6C915?style=for-the-badge&logo=packt&logoColor=black)](https://www.packtpub.com/en-us/product/tprm-driven-supply-chain-cybersecurity-9781806708109)
+
+**🎟️ Reader Discounts**
+
+| Format | Discount | Code |
+|:---|:---:|:---|
+| 📕 Paperback | **15% OFF** | `TPRM_PAPERBACK` |
+| 📱 eBook | **25% OFF** | `TPRM_EBOOK` |
+
+*Apply the code at checkout on [packtpub.com](https://www.packtpub.com/en-us/product/tprm-driven-supply-chain-cybersecurity-9781806708109).*
 
 </div>
 
