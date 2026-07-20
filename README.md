@@ -96,13 +96,13 @@ I'm a **Senior Threat & Security Researcher** and **CyberSecurity Advocate** foc
 
 <div align="center">
 
-![Profile Details](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![Profile Details](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/2077/0-profile-details.svg)
 
-![Stats](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+![Stats](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/2077/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/2077/4-productive-time.svg)
 
-![Repos per Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Repos per Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/2077/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/filipi86/filipi86/main/profile-summary-card-output/2077/2-most-commit-language.svg)
 
 </div>
 
